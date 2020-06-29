@@ -1,1 +1,1 @@
-# Gimp-Addons
+# Gimp Plugins
